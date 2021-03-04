@@ -1,1 +1,1 @@
-# github_finder_hooks
+# Getting Started with Create React App
