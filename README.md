@@ -1,1 +1,4 @@
-# The github users search engine refactored using functinal components with hooks.
+# The github users search engine 
+
+Checkout the github_finder app repo.
+This is the refactored version using functinal components with hooks.
