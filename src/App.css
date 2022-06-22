@@ -7,6 +7,7 @@
   --light-color: #f4f4f4;
   --danger-color: #dc3545;
   --success-color: #28a745;
+  --my-color: #04b4db;
 }
 
 * {
@@ -249,7 +250,7 @@ img {
 .bg-primary,
 .badge-primary,
 .alert-primary {
-  background: var(--primary-color);
+  background: var(--my-color);
   color: #fff;
 }
 
